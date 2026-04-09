@@ -10,6 +10,7 @@ public class Program
             new Marca("Sansung", 0.05),
             new Marca("Apple", 0.02),
             new Marca("Xiaomi", 0.15),
+            new Marca("Motorola", 0.10)
         };
 
         System.Console.WriteLine("Digite o nome do produto");
